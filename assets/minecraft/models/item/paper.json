@@ -1,0 +1,5 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/paper"},"overrides":[
+  {"predicate":{"custom_model_data":1},"model":"item/vote_key"},
+  {"predicate":{"custom_model_data":2},"model":"item/rare_key"},
+  {"predicate":{"custom_model_data":3},"model":"item/legendary_key"},
+  {"predicate":{"custom_model_data":4},"model":"item/mythical_key"}]}
