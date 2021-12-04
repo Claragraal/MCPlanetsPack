@@ -1,5 +1,16 @@
 {"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/paper"},"overrides":[
-  {"predicate":{"custom_model_data":1},"model":"item/vote_key"},
-  {"predicate":{"custom_model_data":2},"model":"item/rare_key"},
-  {"predicate":{"custom_model_data":3},"model":"item/legendary_key"},
-  {"predicate":{"custom_model_data":4},"model":"item/mythical_key"}]}
+  {"predicate":{"custom_model_data":1},"model":"item/items/vote_key"},
+  {"predicate":{"custom_model_data":2},"model":"item/items/rare_key"},
+  {"predicate":{"custom_model_data":3},"model":"item/items/legendary_key"},
+  {"predicate":{"custom_model_data":4},"model":"item/items/mythical_key"},
+  {"predicate":{"custom_model_data":5},"model":"item/items/coin_1"},
+  {"predicate":{"custom_model_data":6},"model":"item/items/coin_2"},
+  {"predicate":{"custom_model_data":7},"model":"item/items/coin_3"},
+  {"predicate":{"custom_model_data":8},"model":"item/items/gems_1"},
+  {"predicate":{"custom_model_data":9},"model":"item/items/gems_2"},
+  {"predicate":{"custom_model_data":10},"model":"item/items/gems_3"},
+  {"predicate":{"custom_model_data":11},"model":"item/items/claim_1"},
+  {"predicate":{"custom_model_data":12},"model":"item/items/claim_2"},
+  {"predicate":{"custom_model_data":13},"model":"item/items/claim_3"}
+
+  ]}
