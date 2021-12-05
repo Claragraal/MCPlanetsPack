@@ -11,6 +11,10 @@
   {"predicate":{"custom_model_data":10},"model":"item/items/gems_3"},
   {"predicate":{"custom_model_data":11},"model":"item/items/claim_1"},
   {"predicate":{"custom_model_data":12},"model":"item/items/claim_2"},
-  {"predicate":{"custom_model_data":13},"model":"item/items/claim_3"}
+  {"predicate":{"custom_model_data":13},"model":"item/items/claim_3"},
+  {"predicate":{"custom_model_data":14},"model":"crates/vote_crate"},
+  {"predicate":{"custom_model_data":15},"model":"crates/rare_crate"},
+  {"predicate":{"custom_model_data":16},"model":"crates/legendary_crate"},
+  {"predicate":{"custom_model_data":17},"model":"crates/mythical_crate"}
 
   ]}
