@@ -15,6 +15,14 @@
   {"predicate":{"custom_model_data":14},"model":"crates/vote_crate"},
   {"predicate":{"custom_model_data":15},"model":"crates/rare_crate"},
   {"predicate":{"custom_model_data":16},"model":"crates/legendary_crate"},
-  {"predicate":{"custom_model_data":17},"model":"crates/mythical_crate"}
+  {"predicate":{"custom_model_data":17},"model":"crates/mythical_crate"},
+  {"predicate":{"custom_model_data":18},"model":"item/items/explorer_icon"},
+  {"predicate":{"custom_model_data":19},"model":"item/items/voyager_icon"},
+  {"predicate":{"custom_model_data":20},"model":"item/items/pilot_icon"},
+  {"predicate":{"custom_model_data":21},"model":"item/items/astronaut_icon"},
+  {"predicate":{"custom_model_data":22},"model":"item/items/martian_icon"},
+  {"predicate":{"custom_model_data":23},"model":"item/items/exp_1"},
+  {"predicate":{"custom_model_data":24},"model":"item/items/exp_2"},
+  {"predicate":{"custom_model_data":25},"model":"item/items/exp_3"}
 
   ]}
