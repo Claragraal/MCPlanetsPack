@@ -23,6 +23,7 @@
   {"predicate":{"custom_model_data":22},"model":"item/items/martian_icon"},
   {"predicate":{"custom_model_data":23},"model":"item/items/exp_1"},
   {"predicate":{"custom_model_data":24},"model":"item/items/exp_2"},
-  {"predicate":{"custom_model_data":25},"model":"item/items/exp_3"}
+  {"predicate":{"custom_model_data":25},"model":"item/items/exp_3"},
+  {"predicate":{"custom_model_data":26},"model":"crates/xmas_crate"}
 
   ]}
