@@ -258,6 +258,69 @@
       },
       {
          "type":"bitmap",
+         "file":"minecraft:font/rarities/common.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "讲"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/uncommon.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "说"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/rare.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "谈"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/epic.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "让"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/legendary.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "试"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/unique.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "词"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/rarities/admin.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "诗"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"minecraft:font/ranks/staff.png",
          "ascent":7,
          "chars":[

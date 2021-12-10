@@ -24,6 +24,8 @@
   {"predicate":{"custom_model_data":23},"model":"item/items/exp_1"},
   {"predicate":{"custom_model_data":24},"model":"item/items/exp_2"},
   {"predicate":{"custom_model_data":25},"model":"item/items/exp_3"},
-  {"predicate":{"custom_model_data":26},"model":"crates/xmas_crate"}
+  {"predicate":{"custom_model_data":26},"model":"crates/xmas_crate"},
+  {"predicate":{"custom_model_data":27},"model":"item/items/santa_hat"},
+  {"predicate":{"custom_model_data":28},"model":"item/items/snowy_antlers"}
 
   ]}
