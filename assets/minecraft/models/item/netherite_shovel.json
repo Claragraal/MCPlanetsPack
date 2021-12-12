@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_shovel"
   },"overrides":[
     {"predicate":{"custom_model_data":1},"model":"item/tools/legendary_shovel"},
-    {"predicate":{"custom_model_data":2},"model":"item/tools/mythical_shovel"}
+    {"predicate":{"custom_model_data":2},"model":"item/tools/mythical_shovel"},
+    {"predicate":{"custom_model_data":3},"model":"item/tools/xmas_tree_shovel"}
   ]
 }

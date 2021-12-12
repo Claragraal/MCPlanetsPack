@@ -26,6 +26,9 @@
   {"predicate":{"custom_model_data":25},"model":"item/items/exp_3"},
   {"predicate":{"custom_model_data":26},"model":"crates/xmas_crate"},
   {"predicate":{"custom_model_data":27},"model":"item/items/santa_hat"},
-  {"predicate":{"custom_model_data":28},"model":"item/items/snowy_antlers"}
+  {"predicate":{"custom_model_data":28},"model":"item/items/snowy_antlers"},
+  {"predicate":{"custom_model_data":29},"model":"item/items/newyear_bottle"},
+  {"predicate":{"custom_model_data":30},"model":"item/items/candy_cane"},
+  {"predicate":{"custom_model_data":31},"model":"item/items/xmas_key"}
 
   ]}
