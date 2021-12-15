@@ -328,6 +328,62 @@
          ]
       },
       {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/amsterdam.png",
+         "ascent":7,
+         "chars":[
+            "误"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/moscow.png",
+         "ascent":7,
+         "chars":[
+            "达"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/sydney.png",
+         "ascent":7,
+         "chars":[
+            "进"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/heart.png",
+         "ascent":7,
+         "chars":[
+            "还"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/simp.png",
+         "ascent":7,
+         "chars":[
+            "远"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/new_york.png",
+         "ascent":7,
+         "chars":[
+            "迷"
+         ]
+      },
+      {
+         "type":"bitmap",
+         "file":"minecraft:font/tags/brazil.png",
+         "ascent":7,
+         "chars":[
+            "迫"
+         ]
+      },
+      {
          "type":"legacy_unicode",
          "sizes":"minecraft:font/glyph_sizes.bin",
          "template":"minecraft:font/unicode_page_%s.png"
