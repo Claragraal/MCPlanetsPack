@@ -186,6 +186,15 @@
       },
       {
          "type":"bitmap",
+         "file":"minecraft:font/ranks/dev.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "退"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"minecraft:font/ranks/manager.png",
          "ascent":7,
          "height":7,
