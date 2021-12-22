@@ -188,6 +188,15 @@
       },
       {
          "type":"bitmap",
+         "file":"minecraft:font/ranks/youtube.png",
+         "ascent":7,
+         "height":7,
+         "chars":[
+            "边"
+         ]
+      },
+      {
+         "type":"bitmap",
          "file":"minecraft:font/rarities/common.png",
          "ascent":7,
          "height":7,
