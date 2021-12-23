@@ -51,6 +51,7 @@
   {"predicate":{"custom_model_data":50},"model":"custom/365"},
   {"predicate":{"custom_model_data":51},"model":"custom/366"},
   {"predicate":{"custom_model_data":52},"model":"custom/367"},
-  {"predicate":{"custom_model_data":53},"model":"item/items/soda_machine"}
+  {"predicate":{"custom_model_data":53},"model":"item/items/soda_machine"},
+  {"predicate":{"custom_model_data":54},"model":"item/items/gemshop"}
 
   ]}

@@ -360,7 +360,7 @@
       },
       {
          "file":"minecraft:gui/selector.png",
-         "ascent":7,
+         "ascent":14,
          "type":"bitmap",
          "chars":[
             "返"
