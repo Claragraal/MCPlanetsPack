@@ -368,6 +368,33 @@
          "height": 256
       },
       {
+           "type": "bitmap",
+           "file": "minecraft:gui/gemshop.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "运"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/earthshop.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "送"
+           ]
+      },
+      {
+           "type": "bitmap",
+           "file": "minecraft:gui/earthshop_xmas.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "选"
+           ]
+      },
+      {
          "type":"legacy_unicode",
          "sizes":"minecraft:font/glyph_sizes.bin",
          "template":"minecraft:font/unicode_page_%s.png"
