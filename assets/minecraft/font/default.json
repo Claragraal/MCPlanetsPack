@@ -378,6 +378,15 @@
       },
       {
            "type": "bitmap",
+           "file": "minecraft:gui/crates.png",
+           "ascent": 130,
+           "height": 256,
+           "chars": [
+               "逃"
+           ]
+      },
+      {
+           "type": "bitmap",
            "file": "minecraft:gui/earthshop.png",
            "ascent": 130,
            "height": 256,
